@@ -10,6 +10,7 @@ super_trunfo
 # IDEs
 .vscode/
 .idea/
+.claude/
 *.swp
 *.swo
 
